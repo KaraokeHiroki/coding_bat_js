@@ -1,0 +1,25 @@
+{
+  "name": "coding_bat_js",
+  "version": "1.0.0",
+  "description": "My solutions to the Coding Bat challenges, but in JavaScript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaraokeHiroki/coding_bat_js.git"
+  },
+  "author": "Hiroki Miyabayashi <hiroki.miya00@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaraokeHiroki/coding_bat_js/issues"
+  },
+  "homepage": "https://github.com/KaraokeHiroki/coding_bat_js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-plugin-jest": "^24.1.5",
+    "jest": "^26.6.3"
+  }
+}
